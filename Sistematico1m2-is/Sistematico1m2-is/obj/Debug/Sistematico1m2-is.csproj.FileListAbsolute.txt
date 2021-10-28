@@ -1,0 +1,11 @@
+C:\Users\JADPA_26\source\repos\Sistematico1m2-is\Sistematico1m2-is\bin\Debug\Sistematico1m2-is.exe.config
+C:\Users\JADPA_26\source\repos\Sistematico1m2-is\Sistematico1m2-is\bin\Debug\Sistematico1m2-is.exe
+C:\Users\JADPA_26\source\repos\Sistematico1m2-is\Sistematico1m2-is\bin\Debug\Sistematico1m2-is.pdb
+C:\Users\JADPA_26\source\repos\Sistematico1m2-is\Sistematico1m2-is\obj\Debug\Sistematico1m2-is.csprojAssemblyReference.cache
+C:\Users\JADPA_26\source\repos\Sistematico1m2-is\Sistematico1m2-is\obj\Debug\Sistematico1m2_is.FmrActivo.resources
+C:\Users\JADPA_26\source\repos\Sistematico1m2-is\Sistematico1m2-is\obj\Debug\Sistematico1m2_is.Properties.Resources.resources
+C:\Users\JADPA_26\source\repos\Sistematico1m2-is\Sistematico1m2-is\obj\Debug\Sistematico1m2-is.csproj.GenerateResource.cache
+C:\Users\JADPA_26\source\repos\Sistematico1m2-is\Sistematico1m2-is\obj\Debug\Sistematico1m2-is.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_26\source\repos\Sistematico1m2-is\Sistematico1m2-is\obj\Debug\Sistematico1m2-is.exe
+C:\Users\JADPA_26\source\repos\Sistematico1m2-is\Sistematico1m2-is\obj\Debug\Sistematico1m2-is.pdb
+C:\Users\JADPA_26\source\repos\Sistematico1m2-is\Sistematico1m2-is\obj\Debug\Sistematico1m2_is.FmrCrearActivo.resources
